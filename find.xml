@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.log" />
     <mask>*.php, !*Test.php,!*Seeder.php,!*Factory.php</mask>
     <mask>!*.log,!public/js/app.js</mask>
     <mask>*.vue</mask>
