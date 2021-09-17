@@ -5,7 +5,6 @@
       <mapping pattern="reports" type="AUTO_DETECTED" />
       <mapping pattern="Theme" type="AUTO_DETECTED" />
       <mapping pattern="UpdateDatabaseViewCommand.php" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".rpcs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
