@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="$t(" value="{{ $t('', '') }}" description="tranlsation string" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+</templateSet>
