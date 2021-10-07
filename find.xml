@@ -5,7 +5,6 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.php, !*Test.php,!*Seeder.php,!*Factory.php</mask>
     <mask>!*.log,!public/js/app.js</mask>
     <mask>*.vue, *.php</mask>
