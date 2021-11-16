@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.json" />
+    <option name="FILE_MASK" value="!storage/" />
     <mask>*.php, !*Test.php,!*Seeder.php,!*Factory.php</mask>
     <mask>!*.log,!public/js/app.js</mask>
     <mask>*.vue, *.php</mask>
@@ -16,5 +16,6 @@
     <mask>*.php</mask>
     <mask>!*.sql, !*.html</mask>
     <mask>!*.json</mask>
+    <mask>!storage/</mask>
   </component>
 </application>
