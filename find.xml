@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="~public/" />
     <mask>*.php, !*Test.php,!*Seeder.php,!*Factory.php</mask>
     <mask>!*.log,!public/js/app.js</mask>
     <mask>*.vue, *.php</mask>
